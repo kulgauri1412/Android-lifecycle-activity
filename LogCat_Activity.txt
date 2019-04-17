@@ -1,0 +1,21 @@
+2019-02-02 21:17:24.081 831-831/com.example.demo1 I/MainActivity: onCreate 1 
+2019-02-02 21:17:24.083 831-831/com.example.demo1 I/MainActivity: onStart 1
+2019-02-02 21:17:24.089 831-831/com.example.demo1 I/MainActivity: onResume 1
+2019-02-02 21:17:45.676 831-831/com.example.demo1 I/MainActivity: onPause 2
+2019-02-02 21:17:45.683 831-831/com.example.demo1 I/MainActivity: onSaveInstance 2
+2019-02-02 21:17:45.684 831-831/com.example.demo1 I/MainActivity: onSaveInstanceState onCreate :1 onStart :1 onResume :1 onPause :2 onRestart : 0 onStop : 1 onDestroy : 0 onSaveInstance :2 onRestoreInstance : 0
+2019-02-02 21:17:45.693 831-831/com.example.demo1 I/MainActivity: onStop 2
+2019-02-02 21:17:45.702 831-831/com.example.demo1 I/MainActivity: onDestroy 1
+2019-02-02 21:17:45.870 831-831/com.example.demo1 I/MainActivity: onCreate 2 
+2019-02-02 21:17:45.873 831-831/com.example.demo1 I/MainActivity: onStart 2
+2019-02-02 21:17:45.874 831-831/com.example.demo1 I/MainActivity: onRestoreInstance 1
+2019-02-02 21:17:45.875 831-831/com.example.demo1 I/MainActivity: onRestoreInstanceState onCreate :1 onStart :1 onResume :1 onPause :2 onRestart : 0 onStop : 1 onDestroy : 0 onSaveInstance :2 onRestoreInstance : 0
+2019-02-02 21:17:45.881 831-831/com.example.demo1 I/MainActivity: onResume 2
+2019-02-02 21:19:35.204 831-831/com.example.demo1 I/MainActivity: onPause 3
+2019-02-02 21:19:35.231 831-831/com.example.demo1 I/MainActivity: onSaveInstance 3
+2019-02-02 21:19:35.231 831-831/com.example.demo1 I/MainActivity: onSaveInstanceState onCreate :2 onStart :2 onResume :2 onPause :3 onRestart : 0 onStop : 2 onDestroy : 1 onSaveInstance :3 onRestoreInstance :1
+2019-02-02 21:19:35.243 831-831/com.example.demo1 I/MainActivity: onStop 3
+2019-02-02 21:19:35.997 831-831/com.example.demo1 I/MainActivity: onRestart 1
+2019-02-02 21:19:36.002 831-831/com.example.demo1 I/MainActivity: onStart 3
+2019-02-02 21:19:36.007 831-831/com.example.demo1 I/MainActivity: onResume 3
+2019-02-02 21:21:17.924 831-831/com.example.demo1 I/MainActivity: onReset onCreate :0onStart :0 onResume :0 onPause :0 onRestart :0 onStop :0 onDestroy :0 onSaveInstance :0 onRestoreInstance :0

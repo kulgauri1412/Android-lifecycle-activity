@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="ExtraTranslation">CS646_Assignment1</string>
+    <string name="textView2">प्रक्रिया शुरू :</string>
+    <string name="text_View">प्रक्रिया बनाएँ :</string>
+    <string name="textView3">प्रक्रिया फिर से शुरू :</string>
+    <string name="textView4">प्रक्रिया को रोकें :</string>
+    <string name="textView5">्रक्रिया पुनः आरंभ :</string>
+    <string name="textView6">प्रक्रिया बंद करो :</string>
+    <string name="textView7">प्रक्रिया नष्ट :</string>
+    <string name="btn_reset">रीसेट</string>
+    <string name="reset_click" tools:ignore="MissingTranslation">रीसेट गणना</string>
+    <string name="textView8" tools:ignore="MissingTranslation">प्रक्रिया सहेजें :</string>
+    <string name="textView9" tools:ignore="MissingTranslation">प्रक्रिया बहाल :</string>
+</resources>

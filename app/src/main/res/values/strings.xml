@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CS646_Assignment1</string>
+    <string name="textView2">onStart :</string>
+    <string name="text_View">onCreate :</string>
+    <string name="textView3">onResume :</string>
+    <string name="textView4">onPause :</string>
+    <string name="textView5">onRestart :</string>
+    <string name="textView6">onStop :</string>
+    <string name="textView7">onDestroy :</string>
+    <string name="btn_reset">RESET</string>
+    <string name="reset_click" tools:ignore="MissingTranslation">Reset count</string>
+    <string name="textView8" tools:ignore="MissingTranslation">onSaveInstance :</string>
+    <string name="textView9" tools:ignore="MissingTranslation">onRestoreInstance :</string>
+</resources>
